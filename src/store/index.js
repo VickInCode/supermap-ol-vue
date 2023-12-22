@@ -15,7 +15,7 @@
 //   }
 // })
 
-import Map from 'ol/Map';
+ 
 import { createStore } from 'vuex'
 import map from './map'
 

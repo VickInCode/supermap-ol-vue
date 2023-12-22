@@ -2,11 +2,13 @@
 // }
  
 
-export function setMap (state, map) {
-     
-     state.map = map
-     
-    
+export function setMap (state, map) {     
+     state.map = map     
 }
+
+export function setView (state, view) { 
+     state.view = view     
+}
+
 
  
